@@ -6,6 +6,5 @@ class  a1
         System.out.println("Heheheheehehe Hello");
         System.out.println("Heheheheehehe Hey Hi");
         
-
     }
 }
